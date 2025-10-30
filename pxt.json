@@ -1,7 +1,12 @@
 {
-  "name": "spiflash",
-  "version": "0.0.1",
-  "description": "SPI Flash driver for Adafruit W25Q128 breakout",
+  "name": "pxt-spiflash-w25q128",
+  "version": "0.1.0",
+  "description": "MakeCode extension for Adafruit SPI Flash W25Q128 breakout",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
   "files": ["main.ts", "shims.cpp"],
+  "testFiles": [],
   "public": true
 }

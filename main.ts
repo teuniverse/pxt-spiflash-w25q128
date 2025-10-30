@@ -1,4 +1,4 @@
-//% color=#0080ff icon="\uf0c7" block="SPI Flash"
+//% color=#0080ff icon="\uf0c7" block="SPI Flash (W25Q128)"
 namespace SPIFlash {
   //% blockId=spiflash_init block="initialize flash with CS pin %pin"
   //% shim=SPIFlash::init

@@ -1,0 +1,7 @@
+{
+  "name": "spiflash",
+  "version": "0.0.1",
+  "description": "SPI Flash driver for Adafruit W25Q128 breakout",
+  "files": ["main.ts", "shims.cpp"],
+  "public": true
+}

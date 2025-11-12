@@ -1,0 +1,12 @@
+{
+  "name": "pxt-spiflash-w25q128",
+  "version": "0.1.0",
+  "description": "MakeCode extension for W25Q128 SPI flash module",
+  "license": "MIT",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": ["main.ts", "README.md"],
+  "testFiles": [],
+  "public": true
+}
